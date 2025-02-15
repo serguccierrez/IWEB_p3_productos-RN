@@ -21,7 +21,9 @@ _P3_RN_productos_ is a mobile application for managing and viewing products, dev
 🔵 **EN:** Here’s a preview of the application in action.  
 
 ### 📋 Vista del catálogo de productos | Product catalog view  
+<div align="center">
 <img src="./miscapturas/Screenshot_1729672540.png" alt="Catálogo" width="350px">
+<div>
 _🛒 Interfaz de listado de productos con opciones de filtrado._  
 _🔍 Product listing interface with filtering options._
 
