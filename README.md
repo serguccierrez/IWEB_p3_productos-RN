@@ -30,7 +30,11 @@ _🛒 Interfaz de listado de productos con opciones de filtrado._
 _🔍 Product listing interface with filtering options._
 
 ### 📄 Vista de detalles del producto | Product detail view  
-![Detalles](./miscapturas/Screenshot_1729672878.png)  
+
+<div align="center">
+    <img src="./miscapturas/Screenshot_1729672878.png" alt="Detalles" width="350px">
+</div>
+
 _📌 Información detallada de un producto seleccionado._  
 _📝 Detailed information about a selected product._
 
