@@ -77,7 +77,7 @@ _📝 Detailed information about a selected product._
 Sigue estos pasos para instalar y ejecutar el proyecto:
 
 ```bash
-git clone https://github.com/tuusuario/P3_RN_productos.git
+git clone https://github.com/serguccierrez/P3_RN_productos.git
 cd P3_RN_productos
 yarn install
 ```
@@ -93,7 +93,7 @@ npx expo start
 Follow these steps to install and run the project:
 
 ```bash
-git clone https://github.com/tuusuario/P3_RN_productos.git
+git clone https://github.com/serguccierrez/P3_RN_productos.git
 cd P3_RN_productos
 yarn install
 ```
